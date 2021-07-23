@@ -13,7 +13,7 @@ Jong-eun, Lee | Recommender Systems, NLP | Python, R, Java
 <br/>
 
 ### Major
-> Business Administration  
-> Software & AI
+> Ⅰ. Business Administration  
+> Ⅱ. Software & AI
 
 <br/>
