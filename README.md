@@ -6,7 +6,7 @@
 
 <br/>
     
-Name | Research Interest | Languages
+Name | Research Interests | Languages
 --- | --- | ---
 Jong-eun, Lee | Recommender Systems, NLP | Python, R, Java
 
