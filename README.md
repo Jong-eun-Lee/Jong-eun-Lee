@@ -14,6 +14,8 @@ Jong-eun, Lee | Recommender Systems, NLP | Python, R, Java
 
 ### Major
 > Ⅰ. Business Administration  
-> Ⅱ. Software & AI
+> Ⅱ. Software Convergence  
 
+※ 'Software Convergence' will be renamed to 'AI & Software' in Fall Semester 2021.
+    
 <br/>
