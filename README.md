@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-### Hi, I'm Jong-eun, Lee(이종은).
+### Hi, I'm Jong-eun, Lee.
 
 <br/>
     
