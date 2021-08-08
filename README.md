@@ -3,7 +3,8 @@
 <br/><br/>
 
 ### Hi, I'm Jong-eun, Lee.
-
+[My Github Blog here](https://jong-eun-lee.github.io/ "https://jong-eun-lee.github.io/")
+    
 <br/>
     
 Name | Research Interests | Languages
