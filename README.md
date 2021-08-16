@@ -4,15 +4,13 @@
 
 ### Hi, I'm Jong-eun, Lee.
 [My Github Blog here](https://jong-eun-lee.github.io/ "https://jong-eun-lee.github.io/")
-    
 <br/>
     
 Name | Research Interests | Languages
 --- | --- | ---
 Jong-eun, Lee | Recommender Systems, NLP | Python, R, Java
-
 <br/>
-
+    
 ### Major
 > Ⅰ. Business Administration  
 > Ⅱ. Software Convergence  
